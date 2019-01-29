@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Columbia University Libraries Studio</title>
+    <description>The Columbia University Libraries Studio is both a space and a practice that enables and promotes ethical, sustainable, FAIR, and collaborative, digital and data-driven research and pedagogy.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Jan 2019 02:57:41 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 02:57:41 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Spring at Studio at Butler</title>
+        <description>&lt;p&gt;A new year brings a new semester, which also means new events at &lt;a href=&quot;/spaces/butler&quot;&gt;Studio at
+Butler&lt;/a&gt;. This semester, we will continue to
+offer an &lt;a href=&quot;/open-lab.html&quot;&gt;Open Lab&lt;/a&gt; every Friday, 3–5pm.&lt;/p&gt;
+
+&lt;p&gt;Additionally, Studio at Butler is introducing Open Labs on Mondays, as well,
+beginning February 4. Facilitated by Digital Publishing Librarian Michelle
+Wilson and Assistant Director of Scholarly Communication and Projects Nicky
+Agate, these Open Labs will be focused on academic publishing and scholarly
+communication.&lt;/p&gt;
+
+&lt;p&gt;In late March, Digital Scholarship Librarian Alex Gil and
+GIS/Metadata Librarian Eric Glass will be leading a four-part mini-course on
+the geographical representation of bibliographical data. Stay tuned for a more
+in-depth description of the four sessions in the upcoming weeks.&lt;/p&gt;
+
+&lt;p&gt;Studio at Butler will also continue its tradition of being a digital
+laboratory attached to a seminar or a collaborative space for regular,
+scheduled use. This semester, Studio at Butler will be used by Professor &lt;a href=&quot;https://history.columbia.edu/faculty/smith-pamela-h/&quot;&gt;Pamela
+Smith&lt;/a&gt;, Associate
+Professor &lt;a href=&quot;https://english.columbia.edu/people/profile/453&quot;&gt;Dennis Tenen&lt;/a&gt;, the
+&lt;a href=&quot;http://c4sr.columbia.edu&quot;&gt;Center for Spatial Research&lt;/a&gt;, and the
+&lt;a href=&quot;https://edblogs.columbia.edu/musiconis/&quot;&gt;FAB-Musiconis project&lt;/a&gt; under the
+direction of Professor &lt;a href=&quot;https://music.columbia.edu/bios/susan-boynton&quot;&gt;Susan
+Boynton&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, we hope to finalize our guest speaker schedule and make an
+announcement soon about bringing some exciting voices in cultural analytics,
+experimental and mobilized humanities, social justice, and more.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+        <link>/workshop/open%20lab/2019/01/25/spring-at-butler-2019-01/</link>
+        <guid isPermaLink="true">/workshop/open%20lab/2019/01/25/spring-at-butler-2019-01/</guid>
+        
+        
+        <category>workshop</category>
+        
+        <category>open lab</category>
+        
+      </item>
+    
+      <item>
+        <title>NYCDH Week at the Studio</title>
+        <description>&lt;p&gt;As it has for every year since &lt;a href=&quot;http://dhweek.nycdh.org&quot;&gt;NYCDH Week&lt;/a&gt; began,
+the Studio is hosting workshops among the myriad opportunities to learn more
+about digital humanities around New York.&lt;/p&gt;
+
+&lt;p&gt;This year, we’re taking advantage of the new Studio, Studio at Lehman, to push
+our number of workshops to the limit. The Studio will be hosting seven
+Columbia-related workshops, and we invite you to come participate in as many
+as you like. Specific information and RSVP links are available in the sidebar,
+but below, we’ll describe each workshop in a bit of detail.&lt;/p&gt;
+
+&lt;p&gt;All of the workshops below are for beginners except for one, and you should
+bring a laptop to the workshops if possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://dhweek.nycdh.org/event/introduction-to-jekyll/&quot;&gt;Introduction to
+Jekyll&lt;/a&gt;:&lt;/strong&gt; Digital
+Scholarship Librarian and Studio founder Alex Gil will be leading the first of
+two workshops Tuesday morning during NYCDH Week. In this workshop he will
+offer an introduction to the static website generator
+&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;. Jekyll is used to make fast, durable, loading
+webpages or projects. Jekyll has been used for many genres of academic work:
+digital editions, academic journals, digital archives of images and more. If
+you ever wanted to create a website that you control and design, this is the
+workshop for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://dhweek.nycdh.org/event/make-a-simple-webmap-with-leaflet/&quot;&gt;Make a Simple Webmap with
+Leaflet&lt;/a&gt;:&lt;/strong&gt;
+Research Data Librarian Moacir P. de Sá Pereira will lead an introduction to
+JavaScript by also showing how to use the web-mapping library
+&lt;a href=&quot;http://leafletjs.com&quot;&gt;Leaflet&lt;/a&gt;. At the end of the workshop, users will be
+able to embed maps in webpages using data they provide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://dhweek.nycdh.org/event/working-with-open-data-intro-to-apis-2/&quot;&gt;Working with Open Data: Intro to
+APIs&lt;/a&gt;:&lt;/strong&gt;
+There is so much data out on the web that knowing how to use APIs will let you
+explore and collect that data in a reliable and efficient way. This workshop
+will be taught by Amir Imani, a student at the Data Science Institute and a
+grantee at the Brown Institute for Media Innovation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://dhweek.nycdh.org/event/advanced-topics-in-word-embeddings/&quot;&gt;Advanced Topics in Word
+Embeddings&lt;/a&gt;:&lt;/strong&gt;
+PhD Candidate Jonathan Reeve will lead a workshop on advanced topics in word
+embeddings. Word embeddings are the hottest new technology in natural language
+processing, and are used across linguistic computer science, from machine
+translation to information extraction and computational literary analysis. We
+will cover advanced topics in word embeddings, including: document similarity
+analysis, nearest-neighbor analysis, training vector spaces, and
+visualization. We will use literary texts as examples, but the methods are
+applicable across disciplines, and participants are encouraged to bring their
+own corpora to analyze. Python will be our workshop language, and we will use
+the libraries &lt;a href=&quot;http://spacy.io&quot;&gt;SpaCy&lt;/a&gt;,
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Word2vec&quot;&gt;Word2Vec&lt;/a&gt;, and
+&lt;a href=&quot;https://github.com/explosion/sense2vec&quot;&gt;Sense2Vec&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please bring a laptop on which you’ve installed the Python libraries SpaCy,
+&lt;a href=&quot;https://scikit-learn.org/stable/&quot;&gt;scikit-learn&lt;/a&gt;,
+&lt;a href=&quot;https://pandas.pydata.org/&quot;&gt;pandas&lt;/a&gt;, &lt;a href=&quot;https://matplotlib.org/&quot;&gt;matplotlib&lt;/a&gt;,
+word2vec, and sense2vec, as well as the &lt;code class=&quot;highlighter-rouge&quot;&gt;en_core_web_lg&lt;/code&gt; language model. Check
+that you can load it successfully with &lt;code class=&quot;highlighter-rouge&quot;&gt;spacy.load('en_core_web_lg')&lt;/code&gt;. Refer
+to the SpaCy documentation for instructions on installing the language model.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://dhweek.nycdh.org/event/simple-cv/&quot;&gt;Simple-CV&lt;/a&gt;:&lt;/strong&gt; NYCDH Week
+coincides with the first week of the &lt;a href=&quot;/workshop/2019/01/04/write-in-plain-text-with-scholartxt-2019-01/&quot;&gt;Scholar.txt&lt;/a&gt; workshop
+series, so the first workshop, on making an online and print CV from the same
+plain text file, has been rolled into the NYCDH Week festivities. Moacir will
+be leading this workshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://dhweek.nycdh.org/event/introduction-to-github-for-scholars/&quot;&gt;Introduction to GitHub for
+Scholars&lt;/a&gt;:&lt;/strong&gt;
+In this workshop, Research Computing Program Coordinator Patrick Smyth will
+introduce &lt;a href=&quot;http://www.git-scm.com&quot;&gt;Git&lt;/a&gt; and &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;. Git,
+a distributed version control system, and GitHub, a service for storing code
+in the cloud, are frequently used together to preserve data, collaborate in
+teams, and discover tools and code written by others. This workshop will
+introduce you to Git’s primary functionality, which includes tracking,
+altering, and sharing the history of a project. It will also discuss use cases
+for Git and GitHub that include managing CVs, notes, and course syllabuses.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://dhweek.nycdh.org/event/git-and-atom/&quot;&gt;Git and Atom&lt;/a&gt;:&lt;/strong&gt; Moacir closes
+the Columbia NYCDH Week workshops with an second introduction to
+&lt;a href=&quot;http://git-scm.org&quot;&gt;Git&lt;/a&gt;, teaching how to use Git to put your projects,
+articles, and chapters under version control. Then, see how easy it is to
+integrate Git with &lt;a href=&quot;http://atom.io&quot;&gt;Atom&lt;/a&gt;, a hackable text editor.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+        <link>/workshop/2019/01/21/nycdh-week-2019-01/</link>
+        <guid isPermaLink="true">/workshop/2019/01/21/nycdh-week-2019-01/</guid>
+        
+        
+        <category>workshop</category>
+        
+      </item>
+    
+      <item>
+        <title>New Year, New Studio</title>
+        <description>&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Coming soon &lt;a href=&quot;https://twitter.com/hashtag/studioatbutler?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#studioatbutler&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Alex Gil (@elotroalex) &lt;a href=&quot;https://twitter.com/elotroalex/status/368817038828908546?ref_src=twsrc%5Etfw&quot;&gt;August 17, 2013&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;In 2013, the Columbia University Libraries’ &lt;a href=&quot;http://library.columbia.edu/locations/dhc.html&quot;&gt;Digital Humanities
+Center&lt;/a&gt;, along
+with the &lt;a href=&quot;http://teachingcenter.wikischolars.columbia.edu/&quot;&gt;Graduate School of Arts and Sciences Teaching
+Center&lt;/a&gt;, established
+“Studio@Butler,” which they described as a space “&lt;a href=&quot;https://library.columbia.edu/news/libraries/2013/2013-9-11_Studio_Butler_Opens.html&quot;&gt;designed to support emerging
+practices in pedagogy and digital
+scholarship&lt;/a&gt;.”&lt;/p&gt;
+
+&lt;p&gt;A lot has changed in five years, with the continued growth of digital,
+data-driven research across disciplines as one exponent of that change. The
+Studio has grown and changed as well, as it fell under the purview of &lt;a href=&quot;https://library.columbia.edu/services/digital-scholarship/&quot;&gt;Digital
+Scholarship&lt;/a&gt;.
+Programming has included the 2017 &lt;a href=&quot;https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html&quot;&gt;Puerto Rico
+Mapathon&lt;/a&gt;,
+where the Studio was too small to hold the 25 librarians helping over 60
+volunteers to improve maps of Puerto Rico in the aftermath of Hurricane Maria.
+In addition, the Studio has hosted a Friday afternoon Open Lab, where the
+&lt;a href=&quot;http://xpmethod.plaintext.in&quot;&gt;Group for Experimental Methods in Humanistic Research at Columbia
+University&lt;/a&gt; has traditionally gathered, that has
+generated innovative digital, data-driven research. Finally, through its
+invited talks and general welcoming ethos, the Studio has welcomed researchers
+from universities around the world to discuss their work.&lt;/p&gt;
+
+&lt;p&gt;In 2018, it became increasingly clear that the Studio was not just an
+experimental space but a space central to Columbia University Libraries’ core &lt;a href=&quot;https://strategicdirections.library.columbia.edu/&quot;&gt;strategic
+directions&lt;/a&gt;. The
+ahierarchical structure of the Open Lab aims to foster inclusion as a founding
+principle, making use of that inclusion to inspire inquiry, catalyze
+discovery, and advance knowledge. Through its work looking outward to the
+world beyond Columbia’s walls, the Studio has empowered staff and helped shape
+discourse around pressing issues.&lt;/p&gt;
+
+&lt;p&gt;This alignment of values implied that others within the Libraries were doing similar
+work in fostering digital, data-driven research and pedagogy that was
+simultaneously ethical, sustainable, and collaborative. And so, the Studio is
+now growing with its first sibling Studio, the space maintained by &lt;a href=&quot;https://library.columbia.edu/services/research-data-services.html&quot;&gt;Research
+Data
+Services&lt;/a&gt;,
+which has been running its own Open Labs four times a week with nearly
+identical commitments. As such the Studio now spans two Libraries divisions, Digital
+Scholarship and the Science, Engineering, and Social Sciences Libraries.&lt;/p&gt;
+
+&lt;p&gt;The Studio, then, is both a space and a practice. A space for innovative
+scholarly work done within a practice of inclusion. But just as the practice
+is built from several core principles, the space is also built from more than
+one site. Studio at Lehman now joins Studio at Butler, sharing programming,
+principles, and this very webpage.&lt;/p&gt;
+
+&lt;p&gt;With this webpage, we hope that it grows alongside the Studio. In addition to
+the information about programming included in the earlier version of the site,
+this new one will also include programming at Studio at Lehman alongside
+programming of note outside of the Studio.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, as the Studio is not just a space for programming but also a
+practice, we will grow our library of tuition, creating workshops and
+tutorials as well as sharing others we encounter. We find that scholars with
+principles similar to ours are often left adrift by typical digital,
+data-driven tuition, which can be narrowly tool- and results-oriented.
+Instead, we foreground ethical, sustainable, and collaborative digital,
+data-driven research and pedagogy.&lt;/p&gt;
+
+&lt;p&gt;The new year 2019 promises great things, and we hope you’ll join us for them.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+        <link>/article/2019/01/05/new-year-new-studio-2019-01/</link>
+        <guid isPermaLink="true">/article/2019/01/05/new-year-new-studio-2019-01/</guid>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>Write in Plain Text with the Scholar.txt Workshop Series</title>
+        <description>&lt;p&gt;The Columbia University Libraries Studio’s 2019 workshops kick off with a
+four-session series, “Scholar.txt.” Writing with plain text can make your
+research and scholarship more available, sustainable, and ethical.
+Nevertheless, it goes against inertial orthodoxy in terms of scholarly
+production, especially in the humanities and social sciences.&lt;/p&gt;
+
+&lt;p&gt;Over the course of the four sessions, we will:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create a CV that becomes a webpage and well-formatted pdf with one command,&lt;/li&gt;
+  &lt;li&gt;Write a scholarly article using plain text and managing citations,&lt;/li&gt;
+  &lt;li&gt;Share and discuss our experiences with learning how to use plain text in a
+scholarly environment, and&lt;/li&gt;
+  &lt;li&gt;Contribute to the open pedagogy for plain text scholarship.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The sessions are independent and require no prior knowledge. They will include
+introductions and/or make use of the following freely available software:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://atom.io&quot;&gt;Atom&lt;/a&gt;, a plain text editor&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pandoc.org&quot;&gt;Pandoc&lt;/a&gt;, a universal document converter&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://git-scm.com&quot;&gt;Git&lt;/a&gt;, a version control application&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zotero.org&quot;&gt;Zotero&lt;/a&gt;, a reference management application&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ctan.org&quot;&gt;TeX, LaTeX, and XeLaTeX&lt;/a&gt;, a suite of document typesetting
+applications&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The sessions will be lead by our research data librarian, Moacir P. de Sá
+Pereira, with assistance from other members of the Columbia University
+Libraries Studio community. Come join us and learn to make your work
+available, sustainable, and ethical.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+        <link>/workshop/2019/01/04/write-in-plain-text-with-scholartxt-2019-01/</link>
+        <guid isPermaLink="true">/workshop/2019/01/04/write-in-plain-text-with-scholartxt-2019-01/</guid>
+        
+        
+        <category>workshop</category>
+        
+      </item>
+    
+      <item>
+        <title>Media and Paranoia w/ Clemens Apprich (Leuphana University)</title>
+        <description>&lt;p&gt;Clemens Apprich is visiting research fellow at the &lt;a href=&quot;https://www.globalemergentmedia.com&quot;&gt;Global Emergent Media
+Lab&lt;/a&gt; at Concordia University in Montréal.&lt;/p&gt;
+
+&lt;p&gt;He will speak about his current research project, which examines the
+reciprocity between paranoia and media. Building on the work started in his
+previous monograph, &lt;a href=&quot;https://web.archive.org/web/20181028190138/https://www.rowmaninternational.com/book/technotopia/3-156-79eda6dd-49eb-4b7e-8586-cc3c6263c729&quot;&gt;&lt;em&gt;Technotopia: A Media Genealogy of Net
+Cultures&lt;/em&gt;&lt;/a&gt;
+(Rowman 2017), Apprich employs the rich discourse around paranoia—ranging
+from the history of psychiatry, film and literature studies, to media
+theory—to explore the ‘sub-medial spaces’ which are all too often excluded
+from our analysis of cultural, social and political practices in relation to
+digital technologies.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+        <link>/events/2018/12/10/clemens-apprich/</link>
+        <guid isPermaLink="true">/events/2018/12/10/clemens-apprich/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>&quot;Just Digitization: Opportunities for Image Processing in Digital Humanities&quot; with Melissa Terras</title>
+        <description>&lt;p&gt;Join us at the Butler Studio on November 15, 2018 at 4PM for a talk by Melissa Terras on new work on visual culture and computational possibilities. This event is organized by Digital Scholarship at Columbia Libraries and co-sponsored by xpMethod.&lt;/p&gt;
+
+&lt;h2 id=&quot;s-just-digitization-opportunities-for-image-processing-in-digital-humanities&quot;&gt;Just Digitization: Opportunities for Image Processing in Digital Humanities&lt;/h2&gt;
+
+&lt;p&gt;Most Digital Humanities activity revolves around text and textual processing, although there are more and more opportunities to use 2D and 3D imaging approaches applied to primary historical sources to enable their analysis. In this talk, Terras will talk about the research relationship between the computational and engineering sciences and the cultural heritage community, and provide an overview of various projects which have seen the adoption and adaption of digitisation techniques which require data processing and analysis. What can we borrow from the computational sciences when imaging historical materials, but what can we also contribute? From the reconstruction of individual damaged texts, to the scanning of whole museums, and the intersection of machine learning and manuscript studies, Terras will discuss what it means to operate successfully in this interdisciplinary space.&lt;/p&gt;
+
+&lt;h3 id=&quot;s-melissa-terras&quot;&gt;Melissa Terras&lt;/h3&gt;
+
+&lt;p&gt;Melissa Terras is the Professor of Digital Cultural Heritage at the University of Edinburgh‘s College of Arts, Humanities, and Social Sciences, leading digital aspects of research within CAHSS, and Director of Research in the new Edinburgh Futures Institute. Her research focuses on the use of computational techniques to enable research in the arts, humanities, and wider cultural heritage and information environment that would otherwise be impossible. She is an Honorary Professor of Digital Humanities in UCL Department of Information Studies, where she was employed from 2003-2017. Books include “Image to Interpretation: An Intelligent System to Aid Historians in Reading the Vindolanda Texts” (2006, Oxford University Press), “Defining Digital Humanities: A Reader” (Ashgate 2013) and “Picture-Book Professors: Academia and Children’s Literature” (Cambridge University Press 2018). She is a Fellow of the Alan Turing Institute, Trustee of the National Library of Scotland, and currently serves on the Board of Curators of the University of Oxford Libraries. You can generally find her on twitter @melissaterras.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+        <link>/events/2018/11/15/melissa-terras/</link>
+        <guid isPermaLink="true">/events/2018/11/15/melissa-terras/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Minimal Computing in the Humanities: Building an Exhibit of Primary Sources Using Wax</title>
+        <description>&lt;h2 id=&quot;s-the-course&quot;&gt;The course&lt;/h2&gt;
+
+&lt;p&gt;Have you ever been interested in publishing a small archive of manuscripts, art, photographs or other primary sources on the web? Interested in learning about digital humanities? Have you ever wanted to create your own web project from scratch? In this 4 part workshop series, Alex Gil teaches how to build a web project that catalogues and presents digitized cultural artifacts using Wax, a set of minimal computing approaches developed at Columbia University. Minimal computing, broadly defined, refers to computing done under some set of significant constraints of hardware, software, education, network capacity, power, or other factors. Wax is a flexible framework and set of tools that allow you to create eminently durable and useful digital archives without a database. To see an example of Wax in action you can visit the &lt;a href=&quot;https://stylerevolution.github.io/&quot;&gt;Style Revolution&lt;/a&gt; built by graduate students in Art History or the &lt;a href=&quot;https://bunraku.library.columbia.edu/&quot;&gt;Barbara Curtis Adachi Bunraku Collection&lt;/a&gt; at Columbia University Libraries.&lt;/p&gt;
+
+&lt;h2 id=&quot;s-sessions&quot;&gt;Sessions:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.columbia.edu/go/commandline&quot;&gt;Command Line Basics&lt;/a&gt;&lt;br /&gt;
+Tuesday, November 13, 2018 | 3PM-5PM&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.columbia.edu/cal/event/eventView.do?b=de&amp;amp;calPath=%2Fpublic%2Fcals%2FMainCal&amp;amp;guid=CAL-00bb9e25-6667531c-0166-6967e28a-000017f5events@columbia.edu&amp;amp;recurrenceId=&quot;&gt;Learning Jekyll&lt;/a&gt;&lt;br /&gt;
+Tuesday, November 20, 2018 | 3PM-5PM&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.columbia.edu/go/imagesfiles&quot;&gt;Images and Files&lt;/a&gt;&lt;br /&gt;
+Tuesday, November 27, 2018 | 3PM-5PM&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.columbia.edu/go/narrativedesign&quot;&gt;Narrative Architectures&lt;/a&gt;&lt;br /&gt;
+Tuesday, December 4, 2018 | 3PM-5PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To RSVP please write to Alex Gil (&lt;a href=&quot;mailto:agil@columbia.edu&quot;&gt;agil@columbia.edu&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+        <link>/events/2018/11/13/minimal-computing/</link>
+        <guid isPermaLink="true">/events/2018/11/13/minimal-computing/</guid>
+        
+        <category>Alex Gil</category>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Knowledge Architectures: Lahore</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/imgs/post-images/Archives_Lahore.jpg&quot; alt=&quot;Poster&quot; /&gt;
+&lt;img src=&quot;/assets/imgs/post-images/lahore-schedule-1.jpg&quot; alt=&quot;Schedule&quot; /&gt;
+&lt;img src=&quot;/assets/imgs/post-images/lahore-schedule-2.jpg&quot; alt=&quot;Schedule&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+        <link>/events/2018/03/12/lahore/</link>
+        <guid isPermaLink="true">/events/2018/03/12/lahore/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>“Cabinet Logics: An Intellectual History of Book Furniture” with Shannon Mattern</title>
+        <description>&lt;h2 id=&quot;s-cabinet-logics-an-intellectual-history-of-book-furniture&quot;&gt;Cabinet Logics: An Intellectual History of Book Furniture&lt;/h2&gt;
+
+&lt;p&gt;Even “the cloud” that seems to float above us today relies on heavy
+architecture for its operation. In this talk I’ll focus on the furniture we
+design and build (or buy, or appropriate, or kludge together) to make, store,
+support, organize, and preserve our bibliographic objects. These structures
+scaffold our media technologies, inform the way human bodies relate to those
+media, and embody certain assumptions about what and how we know things
+through these objects. We’ll examine how these media-furnishings function as
+material supports for the delivery of and engagement with media resources,
+while they also frame organizational logics, access policies, and technical
+protocols. We’ll discover how our task chairs, desks, shelves, and cabinets
+give shape to epistemology, politics, and affect — how they render complex
+intellectual and political ideas material, aesthetic, and empirical.&lt;/p&gt;
+
+&lt;p&gt;All talks in the &lt;a href=&quot;http://library.columbia.edu/locations/rbml/exhibitions/bhc/2017-2018.html&quot;&gt;Book History Colloquium&lt;/a&gt; at Columbia are free and open to
+the public, but registration is required and advance registration preferred.
+Advance registration can be done at &lt;a href=&quot;http://library.columbia.edu/news/events/event.html?guid=CAL-00bbdc41-604f2755-0160-50064d7d-000002f1events%40columbia.edu&amp;amp;returnlinkurl=/content/libraryweb/locations/rbml/exhibitions/current&amp;amp;returnlinktext=Events%20Calendar&quot;&gt;this link&lt;/a&gt;. This talk is sponsored by
+the &lt;a href=&quot;http://library.columbia.edu/locations/rbml.html&quot;&gt;Columbia Rare Book &amp;amp; Manuscript Library&lt;/a&gt;, the &lt;a href=&quot;http://english.columbia.edu/&quot;&gt;Columbia Department of
+English &amp;amp; Comparative Literature&lt;/a&gt;, &lt;a href=&quot;https://www.arch.columbia.edu/books&quot;&gt;Columbia (GSAPP) Books on Architecture
+&amp;amp; the City&lt;/a&gt;, and the &lt;a href=&quot;http://xpmethod.plaintext.in/&quot;&gt;Columbia Group for Experimental Methods in the
+Humanities&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+        <link>/events/2018/02/22/shannon-mattern/</link>
+        <guid isPermaLink="true">/events/2018/02/22/shannon-mattern/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+      <item>
+        <title>Public Library/Memory of the World with Marcell Mars</title>
+        <description>
+</description>
+        <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+        <link>/events/2018/01/26/marcell-mars/</link>
+        <guid isPermaLink="true">/events/2018/01/26/marcell-mars/</guid>
+        
+        
+        <category>events</category>
+        
+      </item>
+    
+  </channel>
+</rss>
